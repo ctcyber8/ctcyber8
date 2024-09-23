@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christina! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/christinaturner8/">Cybersecurity Professional</a>
 
-<h2👩🏾‍💻💻🔒 Cybersecurity Projects:</h2>
+<h2👩🏾‍💻💻🔒 Cybersecurity Projects:
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
