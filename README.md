@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christina! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/christinaturner8/">Cybersecurity Professional</a>
+<h1>Hi, I'm Christina! <br/><a  <a href="https://www.linkedin.com/in/christinaturner8/"> Cybersecurity Professional
 
 <h2👩🏾‍💻💻🔒 Cybersecurity Projects:
 
